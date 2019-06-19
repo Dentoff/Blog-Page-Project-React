@@ -1,19 +1,29 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import face from './images/face.jpg';
-import './App.css';
+import './Styles/CommonStyle.css';
 import Common from './Components/Common/TextDisplay';
-
 import weekData from './JsonData/Weeks.json';
 
-class App extends Component {
+ class App extends Component {
+
+  moveToFeedback = () => {
+    this.props.history.push('/StudentFeedback');
+  }; 
+
   render() {
     return (
       <div className="App">
         <div className="Shown">
           <div className="Display">
-            <h1 className="Title">Programming Class Blog</h1>
-            <h2 className="Title">Euan Denton</h2>
+            <div className="TitleContainer">
+              <h1 className="Title" style={{flex:1}}>Programming Class Blog</h1>
+              <a className="Title" style={{fontSize:35, flex:1, textAlign:"right"}}
+                onClick={() => {
+                  this.moveToFeedback()
+                }}>
+                  Student Feedback
+              </a>
+            </div>
             {
               weekData.map(function(Build){
                 return (
@@ -25,8 +35,9 @@ class App extends Component {
               })
             }
           </div>
-          <div className="img">
+          <div style={{float:"right"}} className="img">
             <img src={face} className="face-logo" alt="logo" />
+            <h2 className="Title">Euan Denton</h2>
           </div>
         </div>       
       </div>

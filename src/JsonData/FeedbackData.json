@@ -1,0 +1,206 @@
+[
+    {
+        "Initials":"P.R",
+        "Feedback":[
+            "No, drag and drop too fiddly and didn’t know it was using java for the first two weeks. Easy to use after you get used to it but has a steep learning curve. Doesn't do much outside but would like to give it a go, not to sure how to get started with it. "
+        ]
+    },
+    {
+        "Initials":"A.L",
+        "Feedback":[
+            "Mixed feelings, clunky to start with some of the tutorials are not super clear and do not make sense, it is nice to be able to see what your programing to see exactly what is going on; It’s not great but it’s not afaul. A few online courses with other languages and used a raspberry pi."
+        ]
+    },
+    {
+        "Initials":"C.J.M",
+        "Feedback":[
+            "No, it feels just like animation and finds it boring but understands the use case of it. Likes the fact they can see the java code to understand it. No programming outside due to the amount of work for uni, but would know how to get started if time were not so constrained. "
+        ]
+    },
+    {
+        "Initials":"A.J.E",
+        "Feedback":[
+            "Dose like alice, finds it clunky but fun, prefers programing in lure for roblox and prefers the ide for that; doesnt feel they have learnt much from the drag and drop. Tried to use youtube tutorials to use alice outside of class, used objective c for an app."
+        ]
+    },
+    {
+        "Initials":"F.B",
+        "Feedback":[
+           "Thinks alice is a nice idea but it is only for beginners because there are some things that can’t be done using alice; realizes it only works for the basics. Would like to and has done some in the passed in Java 3d, doesn't have the time to do so."
+        ]
+    },
+    {
+        "Initials":"B.M",
+        "Feedback":[
+            "Thinks it is good for beginners but when you start to get a better understanding it loses its benefit, because you can get more done without having to rely on the drag and drop. Beginner friendly. Not really, used to do some but not for a long time, only has a basic understanding of different programs and languages and does not have much time to put into programming."
+        ]
+    },
+    {
+        "Initials":"T.S",
+        "Feedback":[
+            "Thinks it is good for beginners because it shows what programs should look like but dose not think it is a good program in of itself. It’s simple and teaches the basics. Did do some java programing but no longer dose, not sure how to get started with programming outside of the sessions."
+        ]
+    },
+    {
+        "Initials":"J.T",
+        "Feedback":[
+            "Doesn't like alice, finds it pointless to go from alice to real coding is too big to understand in terms of applying the learning to normal forms of coding. Does not like much about the program apart from some generic IDE similarities. Dose program outside of sessions in java to develop personal projects and their own understanding."
+        ]
+    },
+    {
+        "Initials":"J.H",
+        "Feedback":[
+            "Has nightmares about alice, doesn't like the way alice is required to be used and how different things are required to be done. Does not like any aspect of alice. Does not do any outside, not too sure what is stopping them."
+        ]
+    },
+    {
+        "Initials":"A.Y",
+        "Feedback":[
+            "Does not lick alice, finds it pointless as it won’t help when they start actually coding. Does not like any part of using alice and feels that it is too kid friendly as a program. Used to do a lot but doesn't do much anymore, they are constrained and can't find the time; as well as waiting for the teaching to be useful outside of the sessions."
+        ]
+    },
+    {
+        "Initials":"S.J",
+        "Feedback":[
+            "Doesn't really like Alice, bit basic for university and has previously done real coding, e.g. visual basic which was still easy to do and produced similar understanding. Likes how it can help to teach the fundamentals but nothing more than that as it is too tedious. Does some web outside of the sessions, doesn't have the time to get into programming outside of the session."
+        ]
+    },
+    {
+        "Initials":"D.M",
+        "Feedback":[
+            " Not particularly fond of alice, too basic boring and very repetitive. Like the production of the animations as well as the fundamentals but finds that it grinds after a while and that it is too tedious. Did some in high school and collage but not done any since, hates programming so does not want to do any outside, as well as not having the time."
+        ]
+    },
+    {
+        "Initials":"H.S",
+        "Feedback":[
+            "It's alright, not that bad, easy to animate the character but can be confusing with the drag and drop aspect but finds it easy to follow. Does some web in other lesson but does not do anything outside of uni, due to learning required to get started and not knowing what to produce with it."
+        ]
+    },
+    {
+        "Initials":"B.J.S",
+        "Feedback":[
+            "Doesn't like alice, it’s not proper code and it is not used in industry so can’t see how any of it will be applied outside of uni. Does not like anything, hates using it. Dose some programming but not related to uni, has a personal web project."
+        ]
+    },
+    {
+        "Initials":"C.B",
+        "Feedback":[
+            "Dose like Alice, it’s alright, good entry level to programing, likes that it can be seen as proper code as well as using the drag and drop. Hard to master but easy to understand. Does not do any programming outside."
+        ]
+    },
+    {
+        "Initials":"A.D",
+        "Feedback":[
+            "Yeah it’s okay, easy to code and not complicated. Finds it unreliable and buggy. Does not do any programming outside of the sessions, both time and not knowing how to get started with it."
+        ]
+    },
+    {
+        "Initials":"J.M",
+        "Feedback":[
+            "Dose like alice, because of its simplicity and not needing a prior knowledge of programming to get started. Keeps crashing and finds it buggy. Dose some programming outside, plays around with web."
+        ]
+    },
+    {
+        "Initials":"J.J",
+        "Feedback":[
+            "Doesn't like alice, finds it buggy and that it crashes often. Likes the drag and drop features as well as the ease of using the models and scenes. Dose program outside finishing off work needed and exploring things learnt in alice."
+        ]
+    },
+    {
+        "Initials":"T.S",
+        "Feedback":[
+            "Sort of likes alice because it shows the basic concepts of programming and simplifies these. Does not like the actual program, finds it clunky and overcomplicates simple things, also like to crash. Yes, dose the web stuff and some javascript has a personal project and plays about with alice."
+        ]
+    },
+    {
+        "Initials":"J.L",
+        "Feedback":[
+            "Not particularly fond of alice, thinks its alright for learning but it gets tiring quickly due to crashes and lag. Explains thing in an easy way makes programing somewhat easier to understand. Messed around with alice, dose some web stuff as well."
+        ]
+    },
+    {
+        "Initials":"T.M",
+        "Feedback":[
+            "Its alright, tires to simplify programming and helps to get an understanding, finds the tutorials too wordy and the screen shots not too helpful. Does not like using the camera and set up a scene easily. Does not do much outside of the session unless it is for the course work."
+        ]
+    },
+    {
+        "Initials":"J.G",
+        "Feedback":[
+            "Not really no, finds parts of it confusing and does not fully understand what they have done or why, even with the tutorials, some aspects are not easy to find. Can’t think of anything that they like about alice. Finishes off work from the sessions but does not do much else, time is not available, has a basic idea of how to go about it but does not have the time."
+        ]
+    },
+    {
+        "Initials":"K.T",
+        "Feedback":[
+            "Its alright, likes that its simple, can be confusing, the tutorials help to get a better understanding and sees it as a good way to get people into programming. Can be buggy as well as confusing. Dose some due to time but would know how to get started."
+        ]
+    },
+    {
+        "Initials":"R.D",
+        "Feedback":[
+            "Its alright, a bit limited in what you can do with alice.good for learning about programming themes. Does not do much but has done some in the past, doesn't have anything to do with programming."
+        ]
+    },
+    {
+        "Initials":"J.L",
+        "Feedback":[
+            "No, because they don’t feel they are learning much from the drag and drop way of programming, they don’t seem to learn from it. Does not like any aspect of it apart from being able to see what can be done with what can be dragged in. Does not feel it is a good way to start or learn. Dose some programming, in order to learn mostly web, has a book about java but does not have time to put into it."
+        ]
+    },
+    {
+        "Initials":"R.P",
+        "Feedback":[
+            "No, has used unreal and other programming ide’s so finds the drag and drop aspect and these lessons only teaching how to use alice. Great to have the option to see what's happening and run the program quickly but finds it dated. Does not do much programming outside at all, wants to do programming but from what they have access to they can’t use what they are being taught."
+        ]
+    },
+    {
+        "Initials":"M.C",
+        "Feedback":[
+            "Doesn't like alice, can see why it’s used as it is a basic overview of using java but feels that those new will be complacent with syntax when they start proper programming, finds it unstable and buggy. Decent in getting people started but feels it has been used too long. Dose some programming with C# for personal projects to keep up with the language."
+        ]
+    },
+    {
+        "Initials":"E.J.A",
+        "Feedback":[
+            "No, seems to be unstable and does not like the drag and drop aspect, would prefer to hard code and feels this would offer more control and a better understanding. Makes animation easy to understand and do. Has done a lot of programming so can’t find much use with alice but can see how it would be helpful, hasn’t done much outside but has in the passed, hasn’t had the drive to put the time in for a while."
+        ]
+    },
+    {
+        "Initials":"M.A.P.P",
+        "Feedback":[
+            "Its alright when it wants to be, likes the simplicity of it as they are new to programming. Does not like how buggy and often it crashes. Does not do much programming outside of the sessions, wanting to learn though uni."
+        ]
+    },
+    {
+        "Initials":"K.M",
+        "Feedback":[
+            "No, finds it buggy and sees no value as you have to learn how to use it so the programming aspect is not front and center. Does not like any aspect. Has a programming background so has done a lot of industry work, does some web stuff for freelance work, for friends to find projects."
+        ]
+    },
+    {
+        "Initials":"D.C",
+        "Feedback":[
+            "Does like alice, easy to use once you get the hang of it and can be manipulated for most uses. Has not had it crash or found it buggy. Does not program outside."
+        ]
+    },
+    {
+        "Initials":"J.G",
+        "Feedback":[
+            "Its alright, crashes a lot. Has a lot of different things to use and is easy to use. Dose some programming outside of the session, app development with java, just learning how to make apps."
+        ]
+    },
+    {
+        "Initials":"C.G.F",
+        "Feedback":[
+            "Not particularly fond, doesn't like making the scene as it is tedious. Drag and drop code can be nice in that it is simple and easy to produce. Has done some VB and Java outside."
+        ]
+    },
+    {
+        "Initials":"M.R.H",
+        "Feedback":[
+            "Sort of likes alice, drag and drop makes the programming aspect easier. Finds the scene control to be awkward. Did some in college but has not done much since, constrained by time and not knowing how to get started with programming outside."
+        ]
+    }
+]
